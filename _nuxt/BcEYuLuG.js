@@ -1,1 +1,0 @@
-import{_ as s,e as t,f as c,h as e}from"./Cn4EoV8t.js";const o={},n={class:"container w-1/2 mx-auto"},_=e("div",null,[e("img",{src:""})],-1),a=[_];function r(i,d){return c(),t("div",n,a)}const l=s(o,[["render",r]]);export{l as default};
