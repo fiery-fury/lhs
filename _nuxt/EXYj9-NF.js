@@ -1,0 +1,1 @@
+import{M as e}from"./1bhj3l73.js";import{U as o}from"./D_KSgjiz.js";const t=new Int32Array(e);for(let r=0;r<e;r++)t[r]=r;const i=new o({uTextures:{value:t,type:"i32",size:e}},{isStatic:!0});export{i as b};
